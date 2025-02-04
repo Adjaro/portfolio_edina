@@ -1,0 +1,4 @@
+asgiref 
+Django 
+pillow==11.1.0
+sqlparse
